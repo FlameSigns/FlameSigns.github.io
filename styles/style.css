@@ -1,0 +1,53 @@
+
+@import url(https://db.onlinewebfonts.com/c/ec0ad594e8a7bd2fe5a7f7a697462267?family=DS-Terminal);
+
+html,body,h1,a,li,p,img {
+    font-family:DS-Terminal
+}
+
+html {
+  font-size: 16px;
+  font-family: 'Press Start 2P', cursive;
+  background: #387A9F;
+}
+
+body {
+  width: 1000px;
+  margin: 0 auto;
+  background: #E5ECE1;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #00539F;
+  text-shadow: 3px 3px 1px black;
+  font-size: 60px;
+  text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: #00539F;
+}
+
+li {
+  margin: 0;
+  padding: 20px 0;    
+  color: #00539F;
+  text-shadow: 3px 3px 1px black;
+  font-size: 40px;
+  text-align: center;
+}
+
+p {
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
